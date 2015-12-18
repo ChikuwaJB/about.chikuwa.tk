@@ -16,6 +16,9 @@ body {
 ol, ul {
 	list-style: none;
 }
+.cydia:before{
+	content:url("cydia.png");
+}
 body {
 	-webkit-text-size-adjust: none;
 }
